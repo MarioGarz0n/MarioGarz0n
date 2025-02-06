@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, Hola, soy Mario</h1>
 
-<!--
-**MarioGarz0n/MarioGarz0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<!-- <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="adam-pw" /> 
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br>
 -->
+<!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="gif" /></p> -->
+
+
+- ‍💻 Trabajando actualmente en AIr Institute.
+
+- 🌱 Aprendiendo e intentando mejorar día a día
+
+- 📫 Me puedes contactar en: **garzonmario858@gmail.com**.
+
+- ⚡ Me encanta hacer deporte y pasar tiempo con amigos
+
+<br>
