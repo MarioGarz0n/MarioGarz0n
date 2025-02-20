@@ -13,10 +13,10 @@
 
 - ‍💻 Trabajando actualmente en AIr Institute.
 
-- 🌱 Aprendiendo e intentando mejorar día a día
+- 🌱 Aprendiendo e intentando mejorar día a día.
 
 - 📫 Me puedes contactar en: **garzonmario858@gmail.com**.
 
-- ⚡ Me encanta hacer deporte y pasar tiempo con amigos
+- ⚡ Me encanta hacer deporte y pasar tiempo con amigos.
 
 <br>
