@@ -17,6 +17,4 @@
 
 - 📫 Me puedes contactar en: **garzonmario858@gmail.com**.
 
-- ⚡ Me encanta hacer deporte y pasar tiempo con amigos.
-
 <br>
